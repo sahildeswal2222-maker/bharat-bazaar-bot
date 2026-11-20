@@ -1,0 +1,104 @@
+{
+  "prime_video": {
+    "name": "Prime Video",
+    "price": 49,
+    "description": "🍿 **Prime Video 1 Month Subscription**\n• Ad-free streaming\n• HD/4K quality\n• Private profile/account",
+    "delivery_type": "Credentials / Login"
+  },
+  "yt_premium": {
+    "name": "YouTube Premium",
+    "price": 59,
+    "description": "▶️ **YouTube Premium Plan**\n• Ad-free YouTube & Background play\n• YouTube Music included\n• On your personal email or ready account",
+    "delivery_type": "Invite / Account"
+  },
+  "crunchyroll": {
+    "name": "Crunchyroll",
+    "price": 49,
+    "description": "🍥 **Crunchyroll Fan/Mega Plan**\n• Stream anime ad-free\n• High definition\n• Immediate access",
+    "delivery_type": "Account"
+  },
+  "canva_pro": {
+    "name": "Canva Pro",
+    "price": 49,
+    "description": "🎨 **Canva Pro Designer Access**\n• Unlimited premium templates, fonts & elements\n• Background remover & AI tools\n• 1 Year / Extended invite",
+    "delivery_type": "Invite Link / Login"
+  },
+  "jio_hotstar_4k": {
+    "name": "JioHotstar Ad-Free 4K",
+    "price": 60,
+    "description": "🏏 **JioHotstar Ad-Free 4K Plan**\n• Live sports, movies & HBO/Disney shows\n• 4K Ultra HD resolution\n• Dolby 5.1 audio",
+    "delivery_type": "Login OTP / Account"
+  },
+  "yt_music": {
+    "name": "YouTube Music",
+    "price": 59,
+    "description": "🎵 **YouTube Music Premium**\n• Offline downloads\n• Screen off / Background listening\n• High audio bitrate",
+    "delivery_type": "Account / Invite"
+  },
+  "jio_saavn": {
+    "name": "JioSaavn Pro",
+    "price": 59,
+    "description": "🎶 **JioSaavn Pro Unlimited**\n• Unlimited downloads\n• Highest audio quality (320kbps)\n• No ads",
+    "delivery_type": "Account"
+  },
+  "apple_music": {
+    "name": "Apple Music",
+    "price": 159,
+    "description": "🍏 **Apple Music Premium**\n• Lossless audio & Spatial audio with Dolby Atmos\n• 100M+ songs ad-free\n• Works on Android & iOS",
+    "delivery_type": "Invite / Account"
+  },
+  "spotify_premium": {
+    "name": "Spotify 3 Months",
+    "price": 59,
+    "description": "🎧 **Spotify Premium (3 Months Plan)**\n• 3 Months uninterrupted ad-free music\n• Highest audio quality (320kbps)\n• Offline downloads & unlimited skips\n• Works on your personal email / fresh profile",
+    "delivery_type": "Account / Invite"
+  },
+  "vpn_service": {
+    "name": "VPN Service",
+    "price": 50,
+    "description": "🛡️ **High-Speed Premium VPN**\n• Ultra-fast global servers\n• Strict no-logs policy\n• Unblock streaming & protect privacy",
+    "delivery_type": "Account Key / Config"
+  },
+  "telegram_account": {
+    "name": "Telegram Account",
+    "price": 99,
+    "description": "📱 **Fresh Telegram Account (+1 / International)**\n• Aged / Fresh phone number\n• Full OTP / Tdata / Session delivery\n• 100% working",
+    "delivery_type": "Tdata / Session / OTP"
+  },
+  "netflix_premium_4k": {
+    "name": "Netflix Premium 4K",
+    "price": 179,
+    "description": "🎬 **Netflix Ultra HD 4K**\n• Ultra HD 4K quality with HDR\n• Private profile with PIN\n• Works on TV, Mobile, Laptop",
+    "delivery_type": "Profile Credentials"
+  },
+  "win_activation": {
+    "name": "Windows Activation",
+    "price": 69,
+    "description": "💻 **Windows 10 / 11 Pro Genuine License**\n• Lifetime official activation key\n• Updates enabled\n• 1 PC license",
+    "delivery_type": "Product Key"
+  },
+  "office_activation": {
+    "name": "Office Activation",
+    "price": 200,
+    "description": "📄 **Microsoft Office 365 / 2021 Professional Plus**\n• Word, Excel, PowerPoint, Outlook\n• Lifetime genuine activation key\n• Full updates enabled",
+    "delivery_type": "Product Key"
+  },
+  "win_office_combo": {
+    "name": "Windows + Office Full Combo",
+    "price": 250,
+    "description": "🔥 **Windows 11 Pro + MS Office Pro Combo**\n• Both genuine lifetime keys included\n• Save money with package deal\n• Instant activation guide",
+    "delivery_type": "Combo Keys"
+  },
+  "money_making_courses": {
+    "name": "Money Making Courses",
+    "price": 99,
+    "description": "💰 **VIP Money Making Courses Bundle**\n• SMM, Dropshipping, Freelancing, Trading & Affiliate guides\n• 50+ Premium courses in Google Drive\n• Lifetime access",
+    "delivery_type": "Drive Access Link"
+  },
+  "gemini_pro_bundle": {
+    "name": "Gemini Pro + Anti Gravity + 400GB Drive",
+    "price": 199,
+    "description": "🚀 **Gemini Pro + Anti Gravity + 400GB Cloud Drive**\n• Advanced Google Gemini Pro AI access\n• Anti Gravity setup & VIP tools\n• 400GB high-speed Cloud storage",
+    "delivery_type": "Account & Drive Setup"
+  }
+}
