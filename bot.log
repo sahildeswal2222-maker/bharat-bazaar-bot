@@ -1,2 +1,284 @@
 2026-11-20 12:03:53,512 [INFO] 🚀 Starting Bharat Bazaar (@BharatBazaarBot)...
 2026-11-20 12:03:56,028 [INFO] Bot connected: @BharatBazaarBot (ID: 9114601281)
+2026-11-20 14:15:53,688 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-20 14:15:53,696 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-20 16:09:33,111 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-20 16:09:33,116 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-20 16:09:38,524 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-20 16:09:38,525 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-20 16:46:42,295 [ERROR] API call error (getUpdates): 
+2026-11-20 16:46:42,363 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-20 17:05:54,065 [ERROR] API call error (getUpdates): 
+2026-11-20 17:05:54,202 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-20 17:26:55,926 [ERROR] API call error (getUpdates): 
+2026-11-20 17:26:55,931 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-20 17:29:33,334 [ERROR] API call error (getUpdates): Connection timeout to host https://api.telegram.org/bot9114601281:AAFxC5U7xL0lYAKxRXPlWmeEW_DmXl2-iE4/getUpdates
+2026-11-20 17:29:33,345 [WARNING] getUpdates error: {'ok': False, 'error': 'Connection timeout to host https://api.telegram.org/bot9114601281:AAFxC5U7xL0lYAKxRXPlWmeEW_DmXl2-iE4/getUpdates'}
+2026-11-20 20:07:26,268 [ERROR] API call error (getUpdates): 
+2026-11-20 20:07:26,276 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-20 20:36:26,389 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-20 20:36:26,400 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-20 21:02:08,729 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-20 21:02:08,731 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-20 21:02:10,752 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-20 21:02:10,752 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-20 21:02:12,763 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-20 21:02:12,764 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-20 21:02:14,776 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-20 21:02:14,777 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-20 21:02:16,792 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-20 21:02:16,793 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-20 21:15:46,884 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-20 21:15:46,896 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-21 00:42:02,879 [ERROR] API call error (getUpdates): [Errno 104] Connection reset by peer
+2026-11-21 00:42:02,894 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 104] Connection reset by peer'}
+2026-11-21 03:47:53,816 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-21 03:47:53,824 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-21 06:35:56,356 [ERROR] API call error (getUpdates): 
+2026-11-21 06:35:56,396 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-21 06:42:28,823 [ERROR] API call error (getUpdates): 
+2026-11-21 06:42:28,826 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-21 09:33:41,090 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-21 09:33:41,093 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-21 09:34:36,373 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-21 09:34:36,373 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-21 10:35:10,505 [ERROR] API call error (getUpdates): [Errno 104] Connection reset by peer
+2026-11-21 10:35:10,518 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 104] Connection reset by peer'}
+2026-11-21 10:38:50,163 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-21 10:38:50,164 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-21 10:38:52,184 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 10:38:52,185 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 10:38:54,201 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 10:38:54,202 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 10:38:56,213 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 10:38:56,213 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 10:38:58,230 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 10:38:58,231 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 10:39:08,464 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 10:39:08,465 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 10:39:14,707 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 10:39:14,708 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 10:39:20,950 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 10:39:20,952 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 10:39:30,203 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 10:39:30,204 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 10:39:36,460 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 10:39:36,462 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 10:39:42,711 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 10:39:42,712 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 10:39:51,965 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 10:39:51,966 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 10:39:58,225 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 10:39:58,226 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 10:40:04,472 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 10:40:04,473 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 10:53:04,867 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-21 10:53:04,869 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-21 12:27:16,698 [ERROR] API call error (getUpdates): 
+2026-11-21 12:27:16,731 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-21 12:42:56,099 [ERROR] API call error (getUpdates): 
+2026-11-21 12:42:56,100 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-21 13:02:04,192 [ERROR] API call error (getUpdates): 
+2026-11-21 13:02:04,194 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-21 13:12:30,707 [ERROR] API call error (getUpdates): 
+2026-11-21 13:12:30,708 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-21 13:55:37,640 [ERROR] API call error (getUpdates): 
+2026-11-21 13:55:37,643 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-21 14:24:07,023 [ERROR] API call error (getUpdates): 
+2026-11-21 14:24:07,023 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-21 15:17:20,379 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-21 15:17:20,383 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-21 15:29:36,286 [ERROR] API call error (getUpdates): 
+2026-11-21 15:29:36,292 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-21 15:43:48,155 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-21 15:43:48,168 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-21 15:43:50,606 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 15:43:50,606 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 15:43:52,615 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 15:43:52,616 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 15:43:54,631 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 15:43:54,632 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:11:48,314 [ERROR] API call error (getUpdates): 
+2026-11-21 17:11:48,331 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-21 17:12:06,524 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:12:06,524 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:15:34,092 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:15:34,095 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:15:42,682 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:15:42,684 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:15:48,910 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:15:48,912 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:16:42,026 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:16:42,027 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:17:54,771 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:17:54,772 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:18:04,409 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:18:04,412 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:18:10,657 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:18:10,658 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:18:16,911 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:18:16,912 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:18:26,143 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:18:26,145 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:18:32,389 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:18:32,389 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:18:38,628 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:18:38,630 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:18:47,851 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:18:47,851 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:18:54,080 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:18:54,080 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:19:00,315 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:19:00,316 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:19:09,535 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:19:09,535 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:19:15,773 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:19:15,775 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:19:22,011 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:19:22,013 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:19:31,246 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:19:31,247 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:19:37,482 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:19:37,483 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:19:43,717 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:19:43,717 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:19:52,971 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:19:52,973 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:19:59,248 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:19:59,248 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:20:05,758 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:20:05,759 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:20:14,763 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:20:14,764 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:20:21,019 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:20:21,020 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:20:27,270 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:20:27,272 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:20:36,558 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:20:36,559 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:20:42,815 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:20:42,816 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:20:49,079 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:20:49,079 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:20:58,294 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:20:58,295 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:23:55,960 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:23:55,961 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:24:04,476 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:24:04,478 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:24:10,725 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:24:10,726 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:32:53,480 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:32:53,481 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:32:59,706 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:32:59,707 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 17:38:05,688 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 17:38:05,690 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 18:31:04,023 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 18:31:04,023 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 18:31:18,304 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 18:31:18,305 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 18:31:27,306 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 18:31:27,307 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 18:31:29,314 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-21 18:31:29,315 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-21 18:44:46,225 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-21 18:44:46,267 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-21 18:45:45,998 [ERROR] API call error (getUpdates): [Errno 104] Connection reset by peer
+2026-11-21 18:45:45,999 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 104] Connection reset by peer'}
+2026-11-21 18:49:41,602 [ERROR] API call error (getUpdates): Server disconnected
+2026-11-21 18:49:41,602 [WARNING] getUpdates error: {'ok': False, 'error': 'Server disconnected'}
+2026-11-21 19:03:31,805 [ERROR] API call error (getUpdates): 
+2026-11-21 19:03:31,805 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-21 19:36:25,520 [ERROR] API call error (getUpdates): [Errno 104] Connection reset by peer
+2026-11-21 19:36:25,522 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 104] Connection reset by peer'}
+2026-11-21 20:18:08,705 [ERROR] API call error (getUpdates): [Errno 104] Connection reset by peer
+2026-11-21 20:18:08,706 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 104] Connection reset by peer'}
+2026-11-21 20:48:52,086 [ERROR] API call error (getUpdates): [Errno 104] Connection reset by peer
+2026-11-21 20:48:52,092 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 104] Connection reset by peer'}
+2026-11-21 21:23:38,100 [ERROR] API call error (getUpdates): [Errno 104] Connection reset by peer
+2026-11-21 21:23:38,100 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 104] Connection reset by peer'}
+2026-11-21 22:26:33,356 [ERROR] API call error (getUpdates): 
+2026-11-21 22:26:33,362 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-21 23:31:28,251 [ERROR] API call error (getUpdates): 
+2026-11-21 23:31:28,276 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-22 00:31:36,208 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-22 00:31:36,213 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-22 00:31:38,236 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 00:31:38,237 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 00:31:40,255 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 00:31:40,257 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 00:31:42,269 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 00:31:42,270 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:12:32,647 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:12:32,650 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:13:24,048 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:13:24,050 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:13:38,126 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:13:38,127 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:13:47,717 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:13:47,718 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:24:32,822 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:24:32,823 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:35:06,970 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:35:06,971 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:35:10,997 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:35:10,998 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:35:13,272 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:35:13,273 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:35:16,083 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:35:16,085 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:39:44,503 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:39:44,503 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:40:09,178 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:40:09,180 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:40:11,352 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:40:11,353 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:40:13,371 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:40:13,373 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:46:33,855 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:46:33,855 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:46:35,870 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:46:35,871 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:46:37,884 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:46:37,885 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:46:39,891 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:46:39,892 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 01:46:57,269 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-22 01:46:57,270 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-22 02:03:09,383 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-22 02:03:09,388 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-24 21:01:01,828 [INFO] 🚀 Starting Bharat Bazaar (@BharatBazaarBot)...
+2026-11-24 21:01:06,733 [INFO] Bot connected: @BharatBazaarBot (ID: 9114601281)
+2026-11-24 21:07:00,511 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-24 21:07:00,514 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-24 22:38:14,767 [ERROR] API call error (getUpdates): 
+2026-11-24 22:38:14,796 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-24 22:45:02,601 [ERROR] API call error (getUpdates): 
+2026-11-24 22:45:02,602 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-24 22:54:24,103 [ERROR] API call error (getUpdates): 
+2026-11-24 22:54:24,106 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-25 01:09:38,565 [ERROR] API call error (getUpdates): 
+2026-11-25 01:09:38,569 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-25 01:09:40,951 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-25 01:09:40,957 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-25 01:09:42,976 [ERROR] API call error (getUpdates): Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]
+2026-11-25 01:09:42,976 [WARNING] getUpdates error: {'ok': False, 'error': 'Cannot connect to host api.telegram.org:443 ssl:default [No address associated with hostname]'}
+2026-11-25 03:51:24,591 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-25 03:51:24,597 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-25 04:13:45,078 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-25 04:13:45,083 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-25 04:42:21,874 [ERROR] API call error (getUpdates): 
+2026-11-25 04:42:21,926 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-25 05:18:04,945 [ERROR] API call error (getUpdates): 
+2026-11-25 05:18:05,014 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-25 06:24:13,199 [ERROR] API call error (getUpdates): 
+2026-11-25 06:24:13,251 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-25 06:43:09,534 [ERROR] API call error (getUpdates): 
+2026-11-25 06:43:09,553 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-25 10:43:35,118 [ERROR] API call error (getUpdates): 
+2026-11-25 10:43:35,139 [WARNING] getUpdates error: {'ok': False, 'error': ''}
+2026-11-25 10:44:49,035 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-25 10:44:49,038 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}
+2026-11-25 13:40:58,275 [ERROR] API call error (getUpdates): [Errno 103] Software caused connection abort
+2026-11-25 13:40:58,285 [WARNING] getUpdates error: {'ok': False, 'error': '[Errno 103] Software caused connection abort'}

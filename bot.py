@@ -535,10 +535,29 @@ class TelegramBot:
                 await self.edit_message_text(chat_id, message_id, adm_text, reply_markup=adm_kb)
                 return
 
+    async def start_web_server(self):
+        port = int(os.environ.get("PORT", 8080))
+        try:
+            from aiohttp import web
+            async def health(request):
+                return web.Response(text="Bharat Bazaar Bot is running 24/7!")
+
+            app = web.Application()
+            app.router.add_get("/", health)
+            app.router.add_get("/health", health)
+            runner = web.AppRunner(app)
+            await runner.setup()
+            site = web.TCPSite(runner, "0.0.0.0", port)
+            await site.start()
+            logger.info(f"🌐 Health web server started on port {port}")
+        except Exception as e:
+            logger.warning(f"Could not start web server: {e}")
+
     # Polling Loop
     async def run(self):
         init_db()
         await self.init_session()
+        await self.start_web_server()
         logger.info(f"🚀 Starting {BOT_NAME} (@BharatBazaarBot)...")
         
         offset = 0
