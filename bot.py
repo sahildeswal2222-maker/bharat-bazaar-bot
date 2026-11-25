@@ -363,7 +363,21 @@ class TelegramBot:
             )
             return
 
-        elif text in ["/admin", "Admin"] and user_id == ADMIN_ID:
+        elif text.startswith("/broadcast ") and user_id == ADMIN_ID:
+            b_text = text.split("/broadcast ", 1)[1]
+            uids = get_all_user_ids()
+            sent = 0
+            for uid in uids:
+                try:
+                    await self.send_message(uid, f"📢 **Announcement from {BOT_NAME}:**\n\n{b_text}")
+                    sent += 1
+                    await asyncio.sleep(0.04)
+                except Exception:
+                    pass
+            await self.send_message(chat_id, f"✅ Broadcast sent to {sent}/{len(uids)} users!")
+            return
+
+        elif text in ["/admin", "/users", "/stats", "Admin"] and user_id == ADMIN_ID:
             stats = get_stats()
             adm_text = (
                 f"👑 **{BOT_NAME} - Admin Dashboard**\n\n"
